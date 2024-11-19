@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1649044956 source:d:\kuliah\semester 2\algoritma dan pemrograman\coding\insertionsort\main.cpp
+	<iostream>
+	"header.h"
+
+1649044887 d:\kuliah\semester 2\algoritma dan pemrograman\coding\insertionsort\header.h
+	<iostream>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1649040449 source:d:\kuliah\semester 2\algoritma dan pemrograman\coding\sorting 3\main.cpp
+	<iostream>
+	"header.h"
+
+1649040449 d:\kuliah\semester 2\algoritma dan pemrograman\coding\sorting 3\header.h
+	<iostream>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1655266158 source:d:\kuliah\semester 2\algoritma dan pemrograman\coding\4217 4218 pert 25 adt barang\main.cpp
+	<iostream>
+	"header.h"
+
+1655266014 d:\kuliah\semester 2\algoritma dan pemrograman\coding\4217 4218 pert 25 adt barang\header.h
+	<iostream>
+	<string.h>
+

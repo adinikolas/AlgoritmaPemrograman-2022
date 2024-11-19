@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1658287842 source:d:\kuliah\semester 2\algoritma dan pemrograman\coding\adt tugas\main.cpp
+	<iostream>
+	"header.h"
+
+1655874129 d:\kuliah\semester 2\algoritma dan pemrograman\coding\adt tugas\header.h
+	<iostream>
+	<string.h>
+

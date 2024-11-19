@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1649670103 source:d:\kuliah\semester 2\algoritma dan pemrograman\coding\binarysearch\main.cpp
+	<iostream>
+	"header.h"
+
+1649654745 d:\kuliah\semester 2\algoritma dan pemrograman\coding\binarysearch\header.h
+	<iostream>
+	<conio.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1649645734 source:d:\kuliah\semester 2\algoritma dan pemrograman\coding\searching\main.cpp
+	<iostream>
+	"header.h"
+
+1649645505 d:\kuliah\semester 2\algoritma dan pemrograman\coding\searching\header.h
+	<iostream>
+	<conio.h>
+

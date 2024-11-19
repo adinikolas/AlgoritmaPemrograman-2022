@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1648808904 source:d:\kuliah\semester 2\algoritma dan pemrograman\coding\pap-04\main.cpp
+	<iostream>
+	"header.h"
+
+1649431532 d:\kuliah\semester 2\algoritma dan pemrograman\coding\pap-04\header.h
+	<iostream>
+

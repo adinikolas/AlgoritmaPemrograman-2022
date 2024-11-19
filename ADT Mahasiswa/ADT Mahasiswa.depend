@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1655694559 source:d:\kuliah\semester 2\algoritma dan pemrograman\coding\adt mahasiswa\main.cpp
+	<iostream>
+	"header.h"
+
+1655691245 d:\kuliah\semester 2\algoritma dan pemrograman\coding\adt mahasiswa\header.h
+	<iostream>
+	<string.h>
+
